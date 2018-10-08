@@ -44,3 +44,5 @@ def draw_tiles(star)
   4.times { draw_star }
 end
 ```
+The sketch for `p5*.js` had to be adapted, because it does not support `loadSVG`
+
