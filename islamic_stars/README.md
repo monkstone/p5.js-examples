@@ -1,4 +1,4 @@
-The logic for this sketch was developed using JRubyArt because it supports loading of SVG image and in general ruby leads to dry coding practices unlike java and javascript, here is JRubyArt code:-
+The logic for this sketch was developed using JRubyArt because it supports loading of SVG image and in general ruby leads to dry coding practices unlike java and javascript, here is the JRubyArt code:-
 ```ruby
 # After an Islamic Star Sketch by Mary Scahill
 # https://www.openprocessing.org/sketch/78611
