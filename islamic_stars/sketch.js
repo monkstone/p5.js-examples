@@ -22,7 +22,7 @@ function draw() {
 }
 
 function drawStar() {
-	for (var i = 0; i < 6; i++) {
+	for (var i = 0; i < 6; i += 1) {
 		translate(XOFF, YOFF);
 		rotate(angle);
 		image(star, 0, 0);
